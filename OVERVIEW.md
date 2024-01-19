@@ -49,13 +49,13 @@ Introducing **Starlight**, a next-generation messaging experience that breaks aw
    - Effortless sharing of images, videos, and documents within conversations.
 3. **Group Chat Functionality:**
    - Comprehensive tools for creating, managing, and customizing group conversations.
-4. **Voice Channels:**
+4. **Voice Channels(Additional):**
    - Engaging voice conversations within group settings for dynamic interaction.
-5. **Live Translation:**
+5. **Live Translation(Additional):**
    - Breaking language barriers with automatic translation during conversations.
 6. **Scheduled Messaging:**
    - Timely and planned communication, accommodating diverse time zones.
-7. **Message Recovery (Bin):**
+7. **Message Recovery (Bin)(Addtional):**
    - User-friendly feature allowing the recovery of deleted messages.
 8. **Privacy Controls:**
    - Robust security measures and customizable privacy settings for user confidence.
@@ -65,7 +65,7 @@ Introducing **Starlight**, a next-generation messaging experience that breaks aw
     - Streamlining communication with quick and efficient response options.
 11. **In-App Calling/Voice Chat:**
     - Seamless voice communication directly within the messaging platform.
-12. **Blocking and Reporting:**
+12. **Blocking and Reporting(Optional):**
     - Empowering users with tools for a safe and secure online environment.
 13. **Status/Stories:**
     - Dynamic user expression through status updates and stories features.
@@ -105,9 +105,6 @@ Introducing **Starlight**, a next-generation messaging experience that breaks aw
 
 **Containerization (Optional):**
 - Docker: For containerizing and deploying applications if needed.
-
-**Continuous Integration/Continuous Deployment (CI/CD):**
-- Jenkins, GitLab CI, or GitHub Actions: For automated testing and deployment.
 
 **Hosting:**
 - Firebase Hosting or Netlify: For hosting the frontend part of the application.
