@@ -220,11 +220,11 @@ Your messaging app targets a diverse audience including:
 
 In conclusion, our messaging app, designed for a diverse audience, introduces a new era of communication. With advanced features such as voice channels, recycling bins, live AI translation, and scheduled messaging, we aim to redefine the way individuals connect, collaborate, and share. Whether you're a professional seeking efficient remote communication, a language learner looking for practice, or part of an international community, our app is tailored to meet your diverse communication needs. Emphasizing user-friendliness, privacy, and adaptability, we invite everyone to experience the next level of messaging. Join us on this journey as we foster inclusive, engaging, and innovative conversations for users of all backgrounds and interests.
 
-# Visuals (Optional)
-
-[Include visuals or screenshots here if applicable.]
-
 # Closing
 
 In conclusion, our messaging app stands ready to revolutionize the way you connect and communicate. With features like voice channels, recycling bins, live AI translation, and scheduled messaging, we offer a versatile platform for users of all backgrounds. We invite you to explore the next level of messaging with us, emphasizing user-friendliness, privacy, and adaptability. Join our community as we redefine digital conversations and create an engaging space for diverse communication needs. Thank you for considering our app, and we look forward to being part of your communication journey.
+
+# Visuals
+![WhatsApp Image 2024-01-20 at 03 00 14](https://github.com/Piku37/StarLight/assets/76819891/ec78e81a-a866-4df7-a04c-b55af8cd865c)
+![h1p1](https://github.com/Piku37/StarLight/assets/76819891/25c9e75b-74aa-4189-ac93-151eaaab4692)
 
